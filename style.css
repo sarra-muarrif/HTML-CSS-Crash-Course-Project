@@ -3,7 +3,7 @@ body {
   margin: 0;
   /* قم بتحويل اتجاه الكتابة من اليسار لليمين */
   font-family: "Cairo", sans-serif;
-  direction: ltr;
+  direction: rtl;
 }
 
 nav {
